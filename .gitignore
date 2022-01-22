@@ -147,4 +147,3 @@ cython_debug/
 *.csv
 *.pkl
 !requirements.txt
-!.zenodo.json

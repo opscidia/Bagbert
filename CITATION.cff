@@ -28,7 +28,10 @@ preferred-citation:
     orcid: " https://orcid.org/0000-0002-2084-7618"
   - family-names: "Laleye"
     given-names: "Frejus"
-  booktitle: "BioCreative VII Challenge Evaluation Workshop"
+  conference:
+    name: "Biocreative VII"
+  collection-title: "BioCreative VII Challenge Evaluation Workshop"
   title: "BagBert: BERT-based bagging-stacking for multi-topic classification"
-  ISBN: "978-0-578-32368-8"
+  isbn: 978-0-578-32368-8
+  month: 11
   year: 2021
