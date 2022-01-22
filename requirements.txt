@@ -1,0 +1,8 @@
+nlpaug==1.1.7
+pandas==1.2.4
+scikit-learn==0.24.2
+sentencepiece==0.1.95
+tensorflow==2.4.2
+tensorflow-addons==0.15.0
+tqdm==4.61.1
+transformers==4.7.0
