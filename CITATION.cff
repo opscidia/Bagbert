@@ -14,6 +14,7 @@ authors:
   orcid: " https://orcid.org/0000-0003-0744-642X"
 title: "BagBert: BERT-based bagging-stacking for multi-topic classification"
 date-released: 2022-01-22
+doi: 10.5281/zenodo.6322789
 url: "https://github.com/github/linguist"
 preferred-citation:
   type: conference-paper

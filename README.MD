@@ -4,6 +4,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8-3776AB?style=for-the-badge&logo=Python&logoColor=f1c40f)](https://www.python.org/downloads/)
 [![Tensorflow](https://img.shields.io/badge/tensorflow-2.4-ff6f00?style=for-the-badge&logo=tensorflow)](https://www.djangoproject.com/download/)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.6322789-3776AB?style=for-the-badge)](https://doi.org/10.5281/zenodo.6322789)
 
 </div>
 
